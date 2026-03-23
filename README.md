@@ -1,3 +1,3 @@
-# Assignment 01
+# Assignment 02
 
 This repository contains all parts of the assignment.
